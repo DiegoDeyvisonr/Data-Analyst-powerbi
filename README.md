@@ -3,7 +3,11 @@ Conclusão de desafio proposto no bootcamp DIO Data Analyst Squadio em Power bi,
 
 
 
-https://github.com/DiegoDeyvisonr/Data-Analyst-powerbi/assets/114884479/3d78e1ff-f521-476a-92b0-75c7dc90f8c1
+
+https://github.com/DiegoDeyvisonr/Data-Analyst-powerbi/assets/114884479/03a8460e-f766-4489-9ede-1beb971fafba
+
+
+
 
 
 
